@@ -1,2 +1,3 @@
 # Java-Processing
-a bunch of small Processing apps 
+A bunch of small Processing apps 
+Head over to https://processing.org to find out more about the technology
